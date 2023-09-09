@@ -76,7 +76,7 @@ public class AddNewCustomer extends BaseTest {
     }
     @Test
     public void testAddNewContactForCustomer(){
-        String number = "8";
+        String number = "9";
         String firstNameContact = "A" + number;
         String lastNameContact = "B";
         String emailContact = number + "abc@gmail.com";
